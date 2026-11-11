@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+eval_results*.json
+eval_smoke*.json
+eval_final.json
